@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-09T13:45:54Z" name="TestCases.TestCaseClass" finished-at="2021-11-09T13:45:55Z" duration-ms="1551">
+    <groups>
+    </groups>
+    <test started-at="2021-11-09T13:45:54Z" name="Command line test" finished-at="2021-11-09T13:45:55Z" duration-ms="1551">
+      <class name="TestCases.TestCaseClass">
+        <test-method is-config="true" signature="initializeTestBaseSetup()[pri:0, instance:TestCases.TestCaseClass@87f383f]" started-at="2021-11-09T19:15:51Z" name="initializeTestBaseSetup" finished-at="2021-11-09T19:15:54Z" duration-ms="2710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TestCaseClass@87f383f]" started-at="2021-11-09T19:15:54Z" name="setUp" finished-at="2021-11-09T19:15:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runTheTest()[pri:0, instance:TestCases.TestCaseClass@87f383f]" started-at="2021-11-09T19:15:54Z" name="runTheTest" finished-at="2021-11-09T19:15:55Z" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTheTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestCaseClass@87f383f]" started-at="2021-11-09T19:15:55Z" name="tearDown" finished-at="2021-11-09T19:15:56Z" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCaseClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCases.TestCaseClass -->
+</testng-results>
